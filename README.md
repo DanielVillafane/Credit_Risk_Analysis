@@ -12,9 +12,9 @@ RandomOverSampler, SMOTE, ClusterCentroids, Smottteen, BalancedRandomForectClass
 
 ### RandomOverSampler model
 ![oversample](/resources/oversample.png)
---- The balanced accuracy score is 62.5%.
---- The high risk precision is 1%  with 61% sensitivity.
---- The low risk precision is 100% with 67% sensitivity.
+---The balanced accuracy score is 62.5%.
+---The high risk precision is 1%  with 61% sensitivity.
+---The low risk precision is 100% with 67% sensitivity.
 
 
 ### SMOTE model
